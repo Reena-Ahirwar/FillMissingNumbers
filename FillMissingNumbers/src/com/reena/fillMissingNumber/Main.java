@@ -27,8 +27,4 @@ public class Main {
         return result;
     }
 
-    public static void main(String[] args) {
-	    int [] result = fillMissingNumbers(new int [] {58,60,55});
-        System.out.println(Arrays.toString(result));
-    }
 }
